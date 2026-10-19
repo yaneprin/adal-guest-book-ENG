@@ -276,7 +276,7 @@ export function getAdalDefaultFields(): FormField[] {
       label: 'Preferred time period',
       page: 1,
       x: 40.0,
-      y: 58.0,
+      y: 59.0,
       width: 49.5,
       height: 2.5,
       placeholder: 'np. Wiosna 2027 / Q2',
